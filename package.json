@@ -1,0 +1,27 @@
+{
+  "name": "home-of-dehua",
+  "version": "1.0.0",
+  "description": "德化的个人主页",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'Static site - no build required'",
+    "preview": "live-server --port=3000"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "homepage",
+    "portfolio"
+  ],
+  "author": "Dehua",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/home-of-dehua.git"
+  },
+  "homepage": "https://homeofdehua.io"
+}
